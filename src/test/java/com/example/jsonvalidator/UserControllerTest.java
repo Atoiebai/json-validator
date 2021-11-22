@@ -20,7 +20,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 //config for WebTestClient
 //@WebFluxTest
-//@SpringBootTest
 class UserControllerTest {
 
     @Autowired
